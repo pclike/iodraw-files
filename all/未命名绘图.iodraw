@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-17" value="OSD Borad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-21" value="TOUCH GLASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="660" width="220" height="60" as="geometry" />
