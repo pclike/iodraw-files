@@ -40,9 +40,6 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-6" value="AD Borad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="650" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jFrkmrqCirHAEvwfi5tO-9" value="55“ LCD module&lt;div&gt;3840*2160&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="696" width="194" height="194" as="geometry" />
-        </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-10" value="Backlight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="860" width="210" height="60" as="geometry" />
         </mxCell>
@@ -52,8 +49,10 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-11" value="backlight Driver Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jFrkmrqCirHAEvwfi5tO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-6" target="jFrkmrqCirHAEvwfi5tO-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-6" target="jFrkmrqCirHAEvwfi5tO-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434.65599999999995" y="752.26" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-16" value="V BY ONE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jFrkmrqCirHAEvwfi5tO-15">
           <mxGeometry x="0.1994" y="1" relative="1" as="geometry">
@@ -68,6 +67,9 @@
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-21" value="TOUCH GLASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="620" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
