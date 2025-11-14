@@ -71,6 +71,14 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-22" value="55&quot; LCD 3840*2160" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="720" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-23" target="jFrkmrqCirHAEvwfi5tO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-25" value="DP/HDMI SIGNAL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jFrkmrqCirHAEvwfi5tO-24">
+          <mxGeometry x="0.1667" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-23" value="USER SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="370" width="120" height="60" as="geometry" />
         </mxCell>
