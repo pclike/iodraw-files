@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-13" value="ADJ,ON/OFF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jFrkmrqCirHAEvwfi5tO-12">
           <mxGeometry x="0.1407" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="36" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-6" value="AD Borad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -51,6 +51,9 @@
           <mxGeometry x="0.1994" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-17" target="jFrkmrqCirHAEvwfi5tO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-17" value="OSD Borad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="950" width="120" height="60" as="geometry" />
