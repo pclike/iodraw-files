@@ -27,6 +27,9 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-9" value="55“ LCD module&lt;div&gt;3840*2160&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="650" width="210" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
