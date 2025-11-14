@@ -21,17 +21,25 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-3" value="SMPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-6" target="jFrkmrqCirHAEvwfi5tO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jFrkmrqCirHAEvwfi5tO-12">
+          <mxGeometry x="0.1407" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-6" value="AD Borad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="650" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-9" value="55“ LCD module&lt;div&gt;3840*2160&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="210" height="210" as="geometry" />
+          <mxGeometry x="414" y="650" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-10" value="Backlight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="890" width="210" height="60" as="geometry" />
+          <mxGeometry x="414" y="890" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-11" value="backlight Driver Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
