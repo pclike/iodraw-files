@@ -22,7 +22,12 @@
           <mxGeometry x="300" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-6" value="AD Borad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="650" width="120" height="120" as="geometry" />
+          <mxGeometry x="80" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="200" height="200" as="geometry">
+            <mxRectangle x="250" y="590" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
