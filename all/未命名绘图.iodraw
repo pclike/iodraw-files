@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-33" value="USB interface" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jFrkmrqCirHAEvwfi5tO-32">
           <mxGeometry x="-0.7535" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="36" y="-90" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-21" value="TOUCH GLASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,6 +100,9 @@
           <mxGeometry x="-0.1555" relative="1" as="geometry">
             <mxPoint x="10" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFrkmrqCirHAEvwfi5tO-23" target="jFrkmrqCirHAEvwfi5tO-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-23" value="USER SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="370" width="120" height="60" as="geometry" />
