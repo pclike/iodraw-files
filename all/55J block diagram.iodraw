@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fMSknLaRNlvD8KkFshUg-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMSknLaRNlvD8KkFshUg-3">
+        <mxCell id="fMSknLaRNlvD8KkFshUg-4" value="LED DECO CONTROL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMSknLaRNlvD8KkFshUg-3">
           <mxGeometry x="-0.139" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
