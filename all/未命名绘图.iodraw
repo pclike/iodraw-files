@@ -30,6 +30,9 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-10" value="Backlight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="890" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jFrkmrqCirHAEvwfi5tO-11" value="backlight Driver Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
