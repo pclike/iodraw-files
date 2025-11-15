@@ -123,13 +123,23 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-37" value="AC Inlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.63;entryY=1.052;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" target="s-IGIIglxOuZ8FqFbYwJ-16">
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.63;entryY=1.052;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s-IGIIglxOuZ8FqFbYwJ-20" target="s-IGIIglxOuZ8FqFbYwJ-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="710" as="sourcePoint" />
             <mxPoint x="610" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="850" />
+              <mxPoint x="1000" y="850" />
               <mxPoint x="610" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="710" as="sourcePoint" />
+            <mxPoint x="550" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="820" />
+              <mxPoint x="550" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
