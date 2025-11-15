@@ -153,6 +153,10 @@
         <mxCell id="fMSknLaRNlvD8KkFshUg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-34" target="fMSknLaRNlvD8KkFshUg-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="685" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="710" y="500" />
+              <mxPoint x="910" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fMSknLaRNlvD8KkFshUg-11" value="24V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMSknLaRNlvD8KkFshUg-10">
