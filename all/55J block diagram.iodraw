@@ -181,7 +181,7 @@
           <mxGeometry x="670" y="750" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fMSknLaRNlvD8KkFshUg-16" value="Backlight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="880" width="220" height="60" as="geometry" />
+          <mxGeometry x="1004" y="840" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fMSknLaRNlvD8KkFshUg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-18" target="fMSknLaRNlvD8KkFshUg-16">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="640" y="1010" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fMSknLaRNlvD8KkFshUg-26" value="32&quot; LCD 1920*1080" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="820" width="220" height="60" as="geometry" />
+          <mxGeometry x="1004" y="780" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fMSknLaRNlvD8KkFshUg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-34" target="fMSknLaRNlvD8KkFshUg-15">
           <mxGeometry relative="1" as="geometry" />
