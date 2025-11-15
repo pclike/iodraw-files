@@ -52,6 +52,12 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-24" value="+24V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="900" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-25" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="930" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-26" value="ON/OFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
