@@ -34,7 +34,7 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-18" value="DIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="760" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-19" value="+24V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-19" value="V+" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="760" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-20" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
