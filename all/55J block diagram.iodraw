@@ -194,7 +194,7 @@
             <mxPoint x="1024.656" y="852.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fMSknLaRNlvD8KkFshUg-20" value="V BY ONE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMSknLaRNlvD8KkFshUg-19">
+        <mxCell id="fMSknLaRNlvD8KkFshUg-20" value="LVDS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fMSknLaRNlvD8KkFshUg-19">
           <mxGeometry x="0.1994" y="1" relative="1" as="geometry">
             <mxPoint x="-51" y="-10" as="offset" />
           </mxGeometry>
