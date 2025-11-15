@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-2" value="+24V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           <mxGeometry x="480" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
