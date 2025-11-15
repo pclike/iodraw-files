@@ -127,10 +127,10 @@
           <mxGeometry x="-650" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="10" y="530" width="20" height="450" as="geometry" />
+          <mxGeometry x="10" y="530" width="20" height="410" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-27" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="70" y="530" width="20" height="450" as="geometry" />
+          <mxGeometry x="70" y="530" width="20" height="410" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-28" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;LED DECO&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;STRIP L/R&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="735" width="90" height="40" as="geometry" />
