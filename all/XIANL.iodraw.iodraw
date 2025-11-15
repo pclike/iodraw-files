@@ -67,7 +67,7 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="s-IGIIglxOuZ8FqFbYwJ-20" target="s-IGIIglxOuZ8FqFbYwJ-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1020" y="860" />
+              <mxPoint x="1030" y="860" />
               <mxPoint x="680" y="860" />
               <mxPoint x="680" y="1015" />
             </Array>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-29" value="A/D Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="970" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
