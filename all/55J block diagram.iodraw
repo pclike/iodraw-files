@@ -246,8 +246,12 @@
         <mxCell id="fMSknLaRNlvD8KkFshUg-37" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;LED DECO&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;STRIP L/R&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1241" y="680" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fMSknLaRNlvD8KkFshUg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.17;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-36" target="fMSknLaRNlvD8KkFshUg-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fMSknLaRNlvD8KkFshUg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.17;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-36" target="fMSknLaRNlvD8KkFshUg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="846" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
