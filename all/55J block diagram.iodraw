@@ -37,7 +37,7 @@
           <mxGeometry x="-570" y="660" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-10" value="Backlight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="790" width="220" height="60" as="geometry" />
+          <mxGeometry x="-236" y="750" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jFrkmrqCirHAEvwfi5tO-11" target="jFrkmrqCirHAEvwfi5tO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,10 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-21" value="TOUCH GLASS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="670" width="220" height="60" as="geometry" />
+          <mxGeometry x="-236" y="630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-22" value="55&quot; LCD 3840*2160" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="730" width="220" height="60" as="geometry" />
+          <mxGeometry x="-236" y="690" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jFrkmrqCirHAEvwfi5tO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jFrkmrqCirHAEvwfi5tO-23" target="jFrkmrqCirHAEvwfi5tO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
