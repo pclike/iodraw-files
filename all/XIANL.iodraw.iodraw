@@ -103,8 +103,8 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-29" value="A/D Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="970" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-37" value="AC Inlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
