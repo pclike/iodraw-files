@@ -16,6 +16,9 @@
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-10" value="SMPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="570" width="400" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="s-IGIIglxOuZ8FqFbYwJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-IGIIglxOuZ8FqFbYwJ-16" target="s-IGIIglxOuZ8FqFbYwJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-16" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="670" width="80" height="30" as="geometry" />
         </mxCell>
@@ -138,8 +141,8 @@
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="710" as="sourcePoint" />
-            <mxPoint x="800" y="980" as="targetPoint" />
+            <mxPoint x="960" y="700" as="sourcePoint" />
+            <mxPoint x="800" y="970" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="900" />
               <mxPoint x="800" y="900" />
