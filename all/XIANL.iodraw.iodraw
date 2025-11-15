@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-2" value="+24V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="670" width="80" height="30" as="geometry" />
+          <mxGeometry x="720" y="670" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-4" value="LED DRIVER BOARD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="320" height="100" as="geometry" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-17" value="ON/OFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="670" width="80" height="30" as="geometry" />
+          <mxGeometry x="350" y="740" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="s-IGIIglxOuZ8FqFbYwJ-18" target="s-IGIIglxOuZ8FqFbYwJ-27">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-18" value="DIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="670" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="840" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s-IGIIglxOuZ8FqFbYwJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="s-IGIIglxOuZ8FqFbYwJ-19" target="s-IGIIglxOuZ8FqFbYwJ-2">
           <mxGeometry relative="1" as="geometry">
