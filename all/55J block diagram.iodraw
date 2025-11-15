@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KdDueoINaRBgJPFoc90v">
-    <mxGraphModel dx="2901" dy="2365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,11 +139,6 @@
         <mxCell id="jFrkmrqCirHAEvwfi5tO-28" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;LED DECO&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;STRIP L/R&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="735" width="90" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;719&quot; height=&quot;403&quot; src=&quot;file:///C:\Users\chad\AppData\Local\Temp\ksohtml21736\wps20.jpg&quot;&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;719&quot; height=&quot;403&quot; src=&quot;file:///C:\Users\chad\AppData\Local\Temp\ksohtml21736\wps20.jpg&quot;&gt;&lt;/p&gt;" id="fMSknLaRNlvD8KkFshUg-5">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="590" y="-10" width="560" height="450" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="fMSknLaRNlvD8KkFshUg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-7" target="fMSknLaRNlvD8KkFshUg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -252,7 +247,8 @@
         <mxCell id="fMSknLaRNlvD8KkFshUg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.17;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fMSknLaRNlvD8KkFshUg-36" target="fMSknLaRNlvD8KkFshUg-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1290" y="846" />
+              <mxPoint x="1300" y="821" />
+              <mxPoint x="1300" y="821" />
             </Array>
           </mxGeometry>
         </mxCell>
